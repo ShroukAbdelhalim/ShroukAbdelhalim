@@ -83,12 +83,12 @@ My background is in Mechatronics Engineering, so I came to software through embe
 🏅 **Splunk Enterprise Certified Admin**<br>
 🏅 **Splunk Core Certified Power User**
 
+🔗 [Verify on Credly](https://www.credly.com/users/shrouk-abdelhalim)
+
 ### Microsoft
 
 🏅 **Azure AI Engineer Associate (AI-102)**<br>
 🏅 **Microsoft 365 Administrator (MS-102)**
-
-🔗 [Verify on Credly](https://www.credly.com/users/shrouk-abdelhalim)
 
 ---
 
@@ -109,7 +109,3 @@ My background is in Mechatronics Engineering, so I came to software through embe
 
 - **Honeypot threat-intel pipeline**: T-Pot honeypots deployed with Terraform and GitHub Actions, rotated to a new IP every night, exporting attacker IPs every 10 minutes to a blocklist and to Splunk
 - **IOC matching platform**: hot/warm tier design for fast matching and historical storage, with TTL-based aging of indicators
-
----
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShroukAbdelhalim&theme=radical)
