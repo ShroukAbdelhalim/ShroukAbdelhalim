@@ -94,6 +94,10 @@ My background is in Mechatronics Engineering, so I came to software through embe
 
 ## Projects
 
+### Platform design & leadership
+
+- **Security automation platform for multiple clients**: designed the architecture and lead the team that builds and runs it. Central control with isolated client environments, logic organised by alert family, least-privilege integrations, and AI that advises while deterministic code acts
+
 ### Backend & AI
 
 - **Document intelligence search**: OCR and indexing pipelines on Azure AI Search, Document Intelligence and Azure OpenAI that let users query documents in natural language
